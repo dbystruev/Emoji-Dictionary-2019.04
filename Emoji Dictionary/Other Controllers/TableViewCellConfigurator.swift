@@ -11,5 +11,6 @@ class TableViewCellConfigurator {
         cell.emojiSymbolLabel.text = emoji.symbol
         cell.emojiNameLabel.text = emoji.name
         cell.emojiDescriptionLabel.text = emoji.description
+        cell.showsReorderControl = true
     }
 }

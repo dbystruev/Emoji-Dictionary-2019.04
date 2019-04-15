@@ -47,6 +47,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		69272B1E2264F5CB00AF18F9 /* Other Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				69938DA8225FC56200043187 /* TableViewCellConfigurator.swift */,
+			);
+			path = "Other Controllers";
+			sourceTree = "<group>";
+		};
 		696BA13A225FB32300028C62 /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -91,6 +99,7 @@
 		69EF2052225FAF1C006DF9E3 /* Emoji Dictionary */ = {
 			isa = PBXGroup;
 			children = (
+				69272B1E2264F5CB00AF18F9 /* Other Controllers */,
 				69938DAA225FCE1E00043187 /* Extensions */,
 				696BA143225FBFDD00028C62 /* View */,
 				696BA13A225FB32300028C62 /* Model */,
@@ -100,7 +109,6 @@
 				69EF205A225FAF22006DF9E3 /* Assets.xcassets */,
 				69EF205C225FAF22006DF9E3 /* LaunchScreen.storyboard */,
 				69EF205F225FAF22006DF9E3 /* Info.plist */,
-				69938DA8225FC56200043187 /* TableViewCellConfigurator.swift */,
 			);
 			path = "Emoji Dictionary";
 			sourceTree = "<group>";
